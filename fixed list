@@ -1,0 +1,10 @@
+void main()
+{
+  //fixed length list
+  const mylist=[22,24,28];
+  print(mylist);
+  mylist.add(27);
+  print(mylist);
+  //it could'nt work because it's a fixed list
+  
+}
